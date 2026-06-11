@@ -1,8 +1,8 @@
 {
   "name": "ChenShangの主页✨",
   "favicon": "/favicon.png",
-  "keywords": "remio,rem,mio,C.C.,KASUIEの次元,KASUIE的个人博客,KASUIE,个人主页,主页,个人记录,技术博客,个人生活",
-  "description": "KASUIEの次元，兴趣至上，内容随缘，个人主页",
+  "keywords": "技术博客,ChenShang,个人主页",
+  "description": "山高路远，道阻且长",
   "avatarConfig": {
     "src": "https://cdn.jsdmirror.com/gh/xixi-cmd/file@main/avatar.jpg",
     "size": 150,
@@ -13,7 +13,7 @@
     "aloneRight": false
   },
   "bgConfig": {
-    "bg": ["https://www.weikecc.top/file/%E5%88%9D%E9%9F%B3.mp4"],
+    "bg": ["https://www.weikecc.top/file/%E5%9B%8Dfin_compressed.mp4"],
     "mbg": ["https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp"],
     "bgStyle": "snow",
     "blur": "",
@@ -45,7 +45,7 @@
     "style": "desc",
     "gapDelay": 0.05,
     "content": "Hello💫，这里是ChenShangの主页",
-    "desc": "我是一只准牛马大学牲，喜欢喝汽水，但是上了大学以后有点胖，正在努力减肥中！😡"
+    "desc": "我是一只牛马大学牲，喜欢喝汽水，但是上了大学以后有点胖，正在努力减肥中！😡"
   },
   "links": [
     {
@@ -84,7 +84,7 @@
       "icon": "https://github.com/xixi-cmd.png",
       "title": "ChenShang's Blog♥️",
       "url": "https://www.weikecc.top",
-      "desc": "博客主页"
+      "desc": "博客主站"
     },
     {
       "icon": "https://cs.kasuie.cc/icons/2ccc4639-8fea-455f-a3b0-ef8073869f2a.jpg",
