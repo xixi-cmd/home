@@ -13,7 +13,7 @@
     "aloneRight": false
   },
   "bgConfig": {
-    "bg": ["https://s2.loli.net/2024/06/21/euQ48saP7UgMyDr.webp"],
+    "bg": ["https://www.weikecc.top/file/%E5%88%9D%E9%9F%B3.mp4"],
     "mbg": ["https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp"],
     "bgStyle": "snow",
     "blur": "",
@@ -30,8 +30,8 @@
     "weather": true
   },
   "layoutConfig": {
-    "gapSize": "lg",
-    "style": "",
+    "gapSize": "sm",
+    "style": "horizontal",
     "istTransition": true
   },
   "subTitle": "https://v1.hitokoto.cn?c=a&c=b&c=c",
