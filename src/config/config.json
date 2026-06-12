@@ -13,7 +13,7 @@
     "aloneRight": false
   },
   "bgConfig": {
-    "bg": ["https://www.weikecc.top/file/%E5%9B%8Dfin_compressed.mp4"],
+    "bg": ["https://blog.weikecc.top/file/%E5%9B%8Dfin_compressed.mp4"],
     "mbg": ["https://s2.loli.net/2024/06/21/59b6eRscAvQWHT1.webp"],
     "bgStyle": "snow",
     "blur": "",
@@ -145,7 +145,7 @@
   },
   "footer": {
     "text": "© 2021 - 2025 By ChenShang",
-    "url": "https://weikecc.top",
+    "url": "https://blog.weikecc.top",
     "direction": "col-reverse",
     "isExternal": true
   },
