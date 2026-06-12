@@ -83,7 +83,7 @@
     {
       "icon": "https://github.com/xixi-cmd.png",
       "title": "ChenShang's Blog♥️",
-      "url": "https://www.weikecc.top",
+      "url": "https://blog.weikecc.top",
       "desc": "博客主站"
     },
     {
@@ -145,7 +145,7 @@
   },
   "footer": {
     "text": "© 2021 - 2025 By ChenShang",
-    "url": "https://blog.weikecc.top",
+    "url": "https://weikecc.top",
     "direction": "col-reverse",
     "isExternal": true
   },
